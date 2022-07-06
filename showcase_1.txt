@@ -1,0 +1,10 @@
+It is an example for using ood to model a real-world building.
+we have building which consists of  Room, apartments ,and elevator.
+so i designed a class for each object. 
+Room class includes width and height.
+Apartment class includes rooms, bathrooms, floor number, apartment number ,and apartment owner.
+elevator class includes width, height ,number of floors,  password Code ,max and min of people and weights.
+
+It is a good example for data hiding and Encapsulation in oop, it means to collect data and function in capsule,then you can 
+control the process of data getting and setting.
+The concept of hiding unnecessary details from the user is called Abstraction.
